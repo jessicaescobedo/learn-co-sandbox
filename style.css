@@ -1,0 +1,22 @@
+body {
+     background-color: lightblue; 
+     font-size: 150%;
+   }
+   
+   h1{
+     color: yellow;
+     font-family: 'Dancing Script', cursive;
+   }
+   h2{
+     color: yellow;
+     font-family: 'Dancing Script', cursive;
+   }
+   h3{
+     color: yellow;
+     font-family: 'Dancing Script', cursive;
+   }
+   p{
+     color: white;
+     font-family: 'Old Standard TT', serif;
+   }
+   
